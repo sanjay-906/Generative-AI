@@ -3,7 +3,6 @@ from pydantic import BaseModel
 import requests
 import os
 import streamlit as st
-from streamlit_extras.add_vertical_space import add_vertical_space
 import pickle
 from PyPDF2 import PdfReader
 
