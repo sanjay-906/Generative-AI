@@ -2,6 +2,7 @@ fastapi
 uvicorn
 pydantic
 langchain==0.0.154
+lxml==4.6.2
 PyPDF2==3.0.1
 python-dotenv==1.0.0
 streamlit==1.18.1
