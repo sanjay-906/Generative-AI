@@ -4,7 +4,9 @@ pydantic
 langchain==0.0.154
 lxml==4.6.2
 PyPDF2==3.0.1
+openai
 python-dotenv==1.0.0
 streamlit==1.18.1
 faiss-cpu==1.7.4
 streamlit-extras
+tiktoken
